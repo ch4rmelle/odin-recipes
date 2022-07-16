@@ -1,4 +1,4 @@
 # odin-recipes
-This project will showcase a few of my favorite recipes to make. 
+Odin-Recipes showcases 3 of my favorite recipes: Shrimp Springrolls, Chicken Alefred, and Pork Sinigang. 
 
-This project demonstrates my current knowledge on HTML: creating a barebones HTML page.
+By viewing this project, you will see me showcase my HTML skills.
