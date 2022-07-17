@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;700&display=swap');
+
+body {
+    font-family: Inter, 'Open sans';
+    max-width: 600px;
+    margin: auto;
+}
+.sinigang-img {
+    height: auto;
+    width: 400px;
+}
+
