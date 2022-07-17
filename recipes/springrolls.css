@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;700&display=swap');
+
+body {
+    font-family: Inter, 'Open sans';
+    max-width: 600px;
+    margin: auto;
+    background-color: #dcf0fc;
+    padding-bottom: 20px;
+}
+ul,li, p, a {
+    font-weight: 300;
+}
+
+a {
+    text-decoration: none;
+    color: #1e8dc5;
+}
+
+a:hover {
+    font-style: italic;
+}
+.springrolls-img {
+    height: auto;
+    width: 500px;
+    border-radius: 8px;
+}
+
+.springrolls-return {
+    border: none;
+    border-radius: 8px;
+    padding: 10px 20px;
+    background-color: #1b526d;
+}
+
+.springrolls-return-link {
+    color: white;
+}
+.source-txt, .img-src {
+    font-size: 12px;
+    font-style: italic;
+}
