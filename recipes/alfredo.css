@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;700&display=swap');
+
+
+body {
+    font-family: Inter, 'Open sans';
+    
+}
+
+.alfredo {
+    max-width: 500px;
+    margin: auto;
+    background-color: #fffcf2;
+    padding-bottom: 20px;
+}
+
+.alfredo-img {
+    height: auto;
+    width: 500px;
+}
+.source-txt {
+    font-size: 12px;
+    text-align: right;
+}
+
+.recipe-src{
+    text-decoration: none;
+    color: #ffcc33;
+}
+
+.recipe-src:visited {
+    color: #ffcc33;
+}
+
+.recipe-src:hover {
+    font-style: italic;
+}
+
+.source-recipe {
+    font-weight: 700;
+}
+
+
+
+.sub-title {
+    font-style: italic;
+}
+
+.instructions {
+    list-style-type: none;
+}
+
+.steps {
+    font-weight: 700;
+    font-style: italic;
+}
+
+.alfredo-return {
+    background-color: #ffda61;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+}
+
+.alfredo-return-link {
+    text-decoration: none;
+    color: black;
+}
+
+.alfredo-return-link:hover{
+    font-style: italic;
+}
