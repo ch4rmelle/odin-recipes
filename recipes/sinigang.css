@@ -4,9 +4,38 @@ body {
     font-family: Inter, 'Open sans';
     max-width: 600px;
     margin: auto;
+    background-color: #f1f9ee;
+    padding-bottom: 20px;
+}
+ul,li, p, a {
+    font-weight: 300;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 107, 0);
+}
+
+a:hover {
+    font-style: italic;
 }
 .sinigang-img {
     height: auto;
     width: 400px;
+    border-radius: 8px;
 }
 
+.sinigang-return {
+    border: none;
+    border-radius: 8px;
+    padding: 10px 20px;
+    background-color: rgb(0, 107, 0);
+}
+
+.sinigang-return-link {
+    color: white;
+}
+.source-txt, .img-src {
+    font-size: 12px;
+    font-style: italic;
+}
