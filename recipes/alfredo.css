@@ -6,6 +6,10 @@ body {
     
 }
 
+a, p, ul, li {
+    font-weight: 300;
+}
+
 .alfredo {
     max-width: 500px;
     margin: auto;
@@ -34,12 +38,6 @@ body {
 .recipe-src:hover {
     font-style: italic;
 }
-
-.source-recipe {
-    font-weight: 700;
-}
-
-
 
 .sub-title {
     font-style: italic;
