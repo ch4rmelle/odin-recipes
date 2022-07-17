@@ -16,6 +16,9 @@ body {
     margin-top: 25px;
     
 }
+.main-title:hover {
+    color: rgb(130, 188, 239);
+}
 
 a {
     text-decoration: none;
@@ -30,6 +33,14 @@ a:visited {
 a:hover {
     font-style: italic;
     color: #78909c;
+}
+
+.alfredo-link:hover {
+    color: #ffcc33;
+}
+
+.sinigang-link:hover {
+    color: #AEB798;
 }
 
 .main-image {
